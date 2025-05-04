@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "498272841796",
+    "firebase_url": "https://boothproject-58117-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "boothproject-58117",
+    "storage_bucket": "boothproject-58117.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498272841796:android:5f2dc6d8bc3f6508b4cc11",
+        "android_client_info": {
+          "package_name": "com.example.gametavern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Hsj_B4XkY7Kaoj_KTDBGivWUx-KDYxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
