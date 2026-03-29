@@ -46,5 +46,5 @@ flutter run
 - `lib/managers/`: App state management
 - `assets/`: All images and icons used in the app
 
-## License
+## License & Legal Disclaimer
 This repository is private and shared for evaluation or internal collaboration only. Unauthorized use or distribution is not permitted.
